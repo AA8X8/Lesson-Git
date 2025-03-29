@@ -7,8 +7,6 @@ def merge(a, b):
 a1 = {'Koshelev' : 'frontender'} 
 b1 = {'Alina' : 'frontender'} 
 merge(a1, b1)
-print("Merged Dictionaries is : ") 
-
 
 for i in range(8):
     a = "Koshelev is not a frontender".split()
